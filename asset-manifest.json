@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/alphaBank/static/css/main.235839d7.css",
+    "main.js": "/alphaBank/static/js/main.1a4b7787.js",
+    "index.html": "/alphaBank/index.html",
+    "main.235839d7.css.map": "/alphaBank/static/css/main.235839d7.css.map",
+    "main.1a4b7787.js.map": "/alphaBank/static/js/main.1a4b7787.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.235839d7.css",
+    "static/js/main.1a4b7787.js"
+  ]
+}
